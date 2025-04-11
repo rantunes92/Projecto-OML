@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ricardo.antunes/Documents/Trabalho/notebooks/../mlruns/151553337456859218/592200192ede440daff9333ee4ed8634/artifacts
+end_time: 1744325998707
+entry_point_name: ''
+experiment_id: '151553337456859218'
+lifecycle_stage: active
+run_id: 592200192ede440daff9333ee4ed8634
+run_name: Decision Trees Run
+run_uuid: 592200192ede440daff9333ee4ed8634
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744325991998
+status: 3
+tags: []
+user_id: ricardo.antunes

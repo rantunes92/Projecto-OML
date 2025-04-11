@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ricardo.antunes/Documents/Trabalho/notebooks/../mlruns/151553337456859218/b6cd8781ba3042c18fbc20412d25b098/artifacts
+end_time: 1744325991941
+entry_point_name: ''
+experiment_id: '151553337456859218'
+lifecycle_stage: active
+run_id: b6cd8781ba3042c18fbc20412d25b098
+run_name: SVM Run
+run_uuid: b6cd8781ba3042c18fbc20412d25b098
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744324203078
+status: 3
+tags: []
+user_id: ricardo.antunes

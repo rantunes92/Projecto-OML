@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1744325981125
+current_stage: None
+description: null
+last_updated_timestamp: 1744325981125
+name: SVM
+run_id: b6cd8781ba3042c18fbc20412d25b098
+run_link: null
+source: file:///c:/Users/ricardo.antunes/Documents/Trabalho/notebooks/../mlruns/151553337456859218/b6cd8781ba3042c18fbc20412d25b098/artifacts/SVM
+status: READY
+status_message: null
+storage_location: file:///c:/Users/ricardo.antunes/Documents/Trabalho/notebooks/../mlruns/151553337456859218/b6cd8781ba3042c18fbc20412d25b098/artifacts/SVM
+user_id: null
+version: 1

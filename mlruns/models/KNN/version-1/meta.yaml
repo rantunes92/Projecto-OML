@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1744324202416
+current_stage: None
+description: null
+last_updated_timestamp: 1744324202416
+name: KNN
+run_id: 2ac56a27f97142579afc6c6f76dbc3ad
+run_link: null
+source: file:///c:/Users/ricardo.antunes/Documents/Trabalho/notebooks/../mlruns/151553337456859218/2ac56a27f97142579afc6c6f76dbc3ad/artifacts/KNN
+status: READY
+status_message: null
+storage_location: file:///c:/Users/ricardo.antunes/Documents/Trabalho/notebooks/../mlruns/151553337456859218/2ac56a27f97142579afc6c6f76dbc3ad/artifacts/KNN
+user_id: null
+version: 1

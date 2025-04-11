@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1744326977759
+current_stage: None
+description: null
+last_updated_timestamp: 1744326977759
+name: Neural_Networks
+run_id: 2d811306d9fd483d94d747c172dec6ea
+run_link: null
+source: file:///c:/Users/ricardo.antunes/Documents/Trabalho/notebooks/../mlruns/151553337456859218/2d811306d9fd483d94d747c172dec6ea/artifacts/Neural_Networks
+status: READY
+status_message: null
+storage_location: file:///c:/Users/ricardo.antunes/Documents/Trabalho/notebooks/../mlruns/151553337456859218/2d811306d9fd483d94d747c172dec6ea/artifacts/Neural_Networks
+user_id: null
+version: 1

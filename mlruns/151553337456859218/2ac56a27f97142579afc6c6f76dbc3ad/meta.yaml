@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ricardo.antunes/Documents/Trabalho/notebooks/../mlruns/151553337456859218/2ac56a27f97142579afc6c6f76dbc3ad/artifacts
+end_time: 1744324203024
+entry_point_name: ''
+experiment_id: '151553337456859218'
+lifecycle_stage: active
+run_id: 2ac56a27f97142579afc6c6f76dbc3ad
+run_name: KNN Run
+run_uuid: 2ac56a27f97142579afc6c6f76dbc3ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744324189972
+status: 3
+tags: []
+user_id: ricardo.antunes

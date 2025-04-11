@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1744325998493
+current_stage: None
+description: null
+last_updated_timestamp: 1744325998493
+name: Decision_Trees
+run_id: 592200192ede440daff9333ee4ed8634
+run_link: null
+source: file:///c:/Users/ricardo.antunes/Documents/Trabalho/notebooks/../mlruns/151553337456859218/592200192ede440daff9333ee4ed8634/artifacts/Decision_Trees
+status: READY
+status_message: null
+storage_location: file:///c:/Users/ricardo.antunes/Documents/Trabalho/notebooks/../mlruns/151553337456859218/592200192ede440daff9333ee4ed8634/artifacts/Decision_Trees
+user_id: null
+version: 1

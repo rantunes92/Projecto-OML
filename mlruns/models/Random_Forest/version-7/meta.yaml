@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1744378841629
+current_stage: None
+description: null
+last_updated_timestamp: 1744378841629
+name: Random_Forest
+run_id: bb148ea43ab745958bab08f907767864
+run_link: null
+source: file:///c:/Users/ricardo.antunes/Documents/Trabalho/notebooks/../mlruns/151553337456859218/bb148ea43ab745958bab08f907767864/artifacts/Random_Forest
+status: READY
+status_message: null
+storage_location: file:///c:/Users/ricardo.antunes/Documents/Trabalho/notebooks/../mlruns/151553337456859218/bb148ea43ab745958bab08f907767864/artifacts/Random_Forest
+user_id: null
+version: 7

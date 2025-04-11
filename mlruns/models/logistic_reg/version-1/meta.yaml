@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1744324189609
+current_stage: None
+description: null
+last_updated_timestamp: 1744324189609
+name: logistic_reg
+run_id: 9b5f6805a43e4ef185092a1419c04578
+run_link: null
+source: file:///c:/Users/ricardo.antunes/Documents/Trabalho/notebooks/../mlruns/151553337456859218/9b5f6805a43e4ef185092a1419c04578/artifacts/logistic_reg
+status: READY
+status_message: null
+storage_location: file:///c:/Users/ricardo.antunes/Documents/Trabalho/notebooks/../mlruns/151553337456859218/9b5f6805a43e4ef185092a1419c04578/artifacts/logistic_reg
+user_id: null
+version: 1
