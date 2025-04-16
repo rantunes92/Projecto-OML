@@ -1,0 +1,9 @@
+services:
+  rumos_bank_experience:
+    image: ghcr.io/mlflow/mlflow
+    command: mlflow ui --port 5000 --host 0.0.0.0 --backend-store-uri ./mlruns --artifacts-destination ./mlruns
+    volumes:
+      - ./mlruns:/mlruns
+    container_name: rumos_bank_experience
+    ports:
+      - 5000:5000
