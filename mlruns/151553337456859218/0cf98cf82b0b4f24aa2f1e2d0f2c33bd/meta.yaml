@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ricardo.antunes/Documents/Trabalho/notebooks/../mlruns/151553337456859218/0cf98cf82b0b4f24aa2f1e2d0f2c33bd/artifacts
+end_time: 1744502132946
+entry_point_name: ''
+experiment_id: '151553337456859218'
+lifecycle_stage: active
+run_id: 0cf98cf82b0b4f24aa2f1e2d0f2c33bd
+run_name: Random Forest Run
+run_uuid: 0cf98cf82b0b4f24aa2f1e2d0f2c33bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744501630567
+status: 3
+tags: []
+user_id: ricardo.antunes

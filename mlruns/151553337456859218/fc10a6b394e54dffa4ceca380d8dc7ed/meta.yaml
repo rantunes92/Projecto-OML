@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ricardo.antunes/Documents/Trabalho/notebooks/../mlruns/151553337456859218/fc10a6b394e54dffa4ceca380d8dc7ed/artifacts
+end_time: 1744795681099
+entry_point_name: ''
+experiment_id: '151553337456859218'
+lifecycle_stage: active
+run_id: fc10a6b394e54dffa4ceca380d8dc7ed
+run_name: Logistic Regression Run
+run_uuid: fc10a6b394e54dffa4ceca380d8dc7ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744795673005
+status: 3
+tags: []
+user_id: ricardo.antunes

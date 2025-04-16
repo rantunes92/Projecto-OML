@@ -1,5 +1,7 @@
 aliases: {}
 creation_timestamp: 1744324202412
+deployment_job_id: null
+deployment_job_state: null
 description: null
-last_updated_timestamp: 1744324202416
+last_updated_timestamp: 1744795694036
 name: KNN
