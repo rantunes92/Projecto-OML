@@ -6,7 +6,7 @@
   verifiquei que as previsões do modelo escolhido para este projecto Random Forest não correspondiam à accuracy esperada e para resolver esses problemas criei os notebooks rumos_bank_lending_prediction - MLflow Random Forest.ipynb e rumos_bank_lending-prediction-RandomForest_read_model.ipynb
   Fiz algumas runs nestes notebooks a tentar solucionar este problema
 5º Criar o conteiner do docker usando o comando: docker compose up -d 
-  Após criar o conteiner, sempre que se quiser correr o container abrir o Docker Desktop e iniciar o container
+  Após criar o conteiner, sempre que se quiser correr o container abrir o Docker Desktop ou a extensão do docker no Visual Studio Code e iniciar o container
 6º Correr o notebook rumos_bank_lending_prediction - MLflow docker.ipynb para correr os modelos no docker e criar as runs
 7º Correr o rumos_bank_lending-prediction-RandomForest_read_model docker.ipynb para ler o modelo escolhido no Docker, neste caso o Random Forest
 
