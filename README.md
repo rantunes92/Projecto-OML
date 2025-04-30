@@ -8,9 +8,10 @@
 5º Criar o conteiner do docker usando o comando: docker compose up -d 
   Após criar o conteiner, sempre que se quiser correr o container abrir o Docker Desktop ou a extensão do docker no Visual Studio Code e iniciar o container
 6º Correr o notebook rumos_bank_lending_prediction - MLflow docker.ipynb para correr os modelos no docker e criar as runs
-7º Correr o rumos_bank_lending-prediction-RandomForest_read_model docker.ipynb para ler o modelo escolhido no Docker, neste caso o Random Forest
+7º Correr o rumos_bank_lending-prediction-RandomForest_read_model docker.ipynb para ler o modelo e versão escolhidos no Docker, neste caso o Random Forest versão 11
 
 Nota: Para fazer commit das runs é preciso instalar o Git LFS com o comando git lfs install
 configurar o Git LFS com o comando: git lfs track "*.pkl"
 e adicionar as alterações git add .gitattributes
+Para fazer os testes com o pytest é necessário correr o comando pytest tests/ após iniciar o mlflow com o comando mlflow ui --backend-store-uri ./mlruns
 
